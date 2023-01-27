@@ -1,0 +1,19 @@
+body{
+    background-color: #d8d4cc;
+}
+header{
+    width: 700px;
+    background-color: #b8cb21;
+    height: 50px;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+}
+
+.menu img {
+    width: 100px;
+    height: 70px;
+}
